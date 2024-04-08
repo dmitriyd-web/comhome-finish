@@ -446,7 +446,7 @@ header .header-logo img {
 
 .primary .row .primary-slider .swiper-slide .slide-content {
     position: relative;
-    max-width: 530px;
+    max-width: 540px;
     padding: 70px 0 70px 80px;
     z-index: 5;
 }
